@@ -1,0 +1,3 @@
+Parseint : devuelve solos numeros enteros
++promt: numero
+promt: string
